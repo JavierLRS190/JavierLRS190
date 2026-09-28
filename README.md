@@ -32,5 +32,5 @@ I build complete web systems, from database design to backend logic and user int
 
 ## 📫 Contact
 
-- 📧 tu-correo@ejemplo.com
-- 💼 LinkedIn: tu-link-aquí
+- 📧 javierlopros189@gmail.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/javier-lopez-55b0b9309/)
