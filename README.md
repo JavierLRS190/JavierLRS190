@@ -1,4 +1,4 @@
-# Hi, I'm Javier López 👋
+# Hi, I'm Javier Lopez 👋
 
 **IT Engineer · Full Stack Developer** based in Puebla, Mexico 🇲🇽
 Open to remote opportunities.
